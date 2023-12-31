@@ -1,0 +1,208 @@
+D:\Try VS\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Try VS\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Try VS\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Try VS\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Try VS\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.manage.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Employees.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.providedfunctions_managers.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.view.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\Try VS\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+D:\VS Community\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\VS Community\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\VS Community\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\VS Community\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\VS Community\GYM\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.attendance.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.manage.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Employees.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.providedfunctions_managers.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.statistics.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\VS Community\GYM\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.attendance.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.finance.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.holidays.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.manage.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.providedfunctions_managers.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.statistics.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.search.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_managers.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_receptionist.resources
+C:\Users\faster\Desktop\Data Project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_trainers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.attendance.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.finance.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.holidays.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.manage.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_managers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_receptionist.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_trainers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.search.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.statistics.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\Siticone.Desktop.UI.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ManagerMain.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\Siticone.Desktop.UI.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.finance.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ManagerMain.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.manage.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_managers.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_receptionist.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_trainers.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.search.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.attendance.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.holidays.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.statistics.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\faster\Desktop\Dataaaaa\Data project 2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.finance.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.ManagerMain.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Devices.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manage_Salaries.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_managers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_receptionist.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.managing_trainers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.attendance.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.holidays.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.statistics.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Welcome.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\CircularProgressBar.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\bin\Debug\net6.0-windows\WinFormAnimation.dll
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Manager.settings.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.AddTransaction.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.Provided_Func_Receptionist.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.ReceptionistMain.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.RequestHoliday.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.Locker.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.ManageMemberships.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.RegisterInvitation.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.Update_Program.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.Assign_Trainers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\Receptionist.Login_Trainers.resources
+E:\College\Junior\Semester 1\Database\Projects\Project\Code\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Receptionist.settings_receptionist.resources
+C:\Users\mahmo\OneDrive\Desktop\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mahmo\OneDrive\Desktop\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mahmo\OneDrive\Desktop\Data project\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mahmo\OneDrive\Desktop\Data project\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
